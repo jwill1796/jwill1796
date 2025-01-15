@@ -8,6 +8,7 @@ I am a software developer who leverages Python 🐍 and C#️⃣ to build mobile
 - 📚 I’m currently learning C# and Azure with Microsoft in the Microsoft Software & Systems Academy! 
 - 🌎 I’m looking to collaborate on Projects that boost efficiency for industry professionals, and enjoyment for users. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwill1796)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jwill1796)](https://github.com/ryo-ma/github-profile-trophy)
 
