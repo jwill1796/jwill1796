@@ -17,8 +17,7 @@ I am a software developer who leverages Python 🐍 and C#️⃣ to build mobile
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jwill1796=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jwill1796)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/joshua-williams-0196a7321/)  
+ 
 
 <!--
 **jwill1796/jwill1796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
