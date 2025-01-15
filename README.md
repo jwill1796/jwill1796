@@ -1,6 +1,3 @@
-## Hi, I'm Josh👋
-I am a software developer who levearges Python 🐍 & C#️⃣ for desktop, mobile, and web development.
-
 ### Hi there 👋, I'm Joshua Williams
 #### Software Developer 
 I am a software developer who leverages Python 🐍 and C#️⃣ to build mobile, desktop, and web applications. 
