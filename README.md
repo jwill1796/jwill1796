@@ -10,9 +10,6 @@ I am a software developer who leverages Python 🐍 and C#️⃣ to build mobile
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwill1796)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jwill1796-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwill1796)](https://github.com/anuraghazra/github-readme-stats)
